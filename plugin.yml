@@ -1,0 +1,11 @@
+main: me.zwoosks.smeltblocks.Main
+name: SmeltBlocks
+version: '1.0'
+author: zwoosks
+commands:
+   smelt:
+      description: Smelt all your ores locatde in your inventory.
+      usage: /<command>
+   craftblocks:
+      description: Turn materials into block mateirals.
+      usage: /<command>

@@ -1,0 +1,5 @@
+messages:
+  notPlayer: "&cYou can't execute this command, you are not a player!"
+  lackPerms: "&cYou don't have the following permission node: %perm%"
+  smeltMessage: "&bAll your existing ores in yout inventory have been smelt"
+  craftblocksMessage: "&bCrafted all possible items into blocks"
